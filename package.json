@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "6.1.4",
+    "mocha": "10.2.0",
     "request": "2.83.0",
     "nodeunit": "latest",
     "chai-http": "4.3.0",
